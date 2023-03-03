@@ -74,4 +74,5 @@ sticky는 말 그대로 끈끈하게 붙어있는 듯한 속성이다.
 ## 🌐reference
 
 https://developer.mozilla.org/en-US/docs/Web/CSS/position
+
 https://www.daleseo.com/css-position/
